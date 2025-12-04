@@ -1,0 +1,22 @@
+{
+  "EnableLoadModule": 107080584,
+  "FakeDataModelPointer": 125436840,
+  "FakeDataModelToDataModel": 448,
+  
+  "ScriptContext": 1008,
+  
+  "Children": 112,
+  "ChildrenEnd": 8,
+  "Name": 176,
+  "Value": 208,
+  
+  "ClassDescriptor": 24,
+  "ClassDescriptorToClassName": 8,
+  
+  "LocalScriptByteCode": 424,
+  "ModuleScriptByteCode": 336,
+  
+  "RequireBypass": 2168,
+  
+  "GameLoaded": 1520
+}
