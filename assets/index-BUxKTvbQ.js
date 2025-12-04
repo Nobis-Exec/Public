@@ -12755,7 +12755,7 @@ const Am = () => Q.jsxs("div", {
     })
 }
   , _m = () => Q.jsx(Om, {
-    imageSrc: "./nobis-preview.png",
+    imageSrc: "./assets/nobis-preview.png",
     altText: "Nobis interface preview",
     showTooltip: !1,
     hoverScale: 1.015,
@@ -12842,4 +12842,5 @@ const Dm = mm.createRoot(Rv);
 Dm.render(Q.jsx(zu.StrictMode, {
     children: Q.jsx(pm, {})
 }));
+
 
